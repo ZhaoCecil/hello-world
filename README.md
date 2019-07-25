@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi Human!
+
+you are such a bot.
